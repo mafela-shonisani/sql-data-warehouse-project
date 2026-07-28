@@ -56,7 +56,7 @@ The primary objective of this project is to build a modern SQL Data Warehouse th
 * T-SQL
 * CSV Files
 * Git & GitHub
-* Draw.io (Documentation and Diagrams)
+  
 
 ---
 
